@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:20px">Hi there 👋 This is Maxtune</span>
+  <h2>Hi there 👋 This is Maxtune</h2>
 </p>
 
 <p align="center">
@@ -18,11 +18,6 @@
   </a>
 </p>
 
-<div align="center">
-
-![](https://raw.githubusercontent.com/maxtunelee/maxtunelee/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 - 🔭 I'm currently working on WildBox Frontend Project.
