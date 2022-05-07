@@ -1,19 +1,19 @@
-<p align="center">
-  <h2>Hi there 👋 This is Maxtune</h2>
-</p>
+<h1 align="center">
+  Hi there 👋 This is Maxtune
+</h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtunelee&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtunelee&layout=compact&theme=swift"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=maxtunelee&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula&title_color=03D361&bg_color=21262d"
+      src="https://github-readme-stats.vercel.app/api?username=maxtunelee&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=swift"
     />
   </a>
 </p>
