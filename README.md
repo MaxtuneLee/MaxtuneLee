@@ -1,10 +1,5 @@
 <p align="center">
-  <span>
-    <img align="center" width="510" src="banners/programming-banner.svg" />
-  </a>
-  <span>
-    <img align="center" width="280" src="signature.png" />
-  </a>
+  <span style="font-size:20px">Hi there 👋 This is Maxtune</span>
 </p>
 
 <p align="center">
@@ -29,7 +24,6 @@
 
 </div>
 
-### Hi there 👋 This is Maxtune
 
 - 🔭 I'm currently working on WildBox Frontend Project.
 - 🌱️ I'm learning Frontend & Machine Learning : )  Mostly writing React, Computer vision
