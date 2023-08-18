@@ -20,11 +20,8 @@
 
 
 
-- 🔭 I'm currently working on WildBox Frontend Project.
-- 🌱️ I'm learning Frontend & Machine Learning : )  Mostly writing React, Computer vision
+- 🔭 Exploring scene flow estimation, opencv, React
 - 💼️ I can do some ui/ux design
-- 😭️ Lack of CSS and writing layout, HELP!
-- 🙂️ I want to write some intersting javascript opensource packages, if you have some idea, plz contact me🙂~
 - 📮️ Reach me at: max@xox.im
 - 🌏️ My Blog: https://mxte.cc
 - 🌩️ Hobbys: 📷️photography via film, 🏓️table tennis, 😸️FURRY!
