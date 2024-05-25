@@ -20,7 +20,7 @@
 
 
 
-- 🔭 Exploring scene flow estimation, opencv, React
+- 🔭 Working on 👀 visualization & 🌐 web dev
 - 💼️ I can do some ui/ux design
 - 📮️ Reach me at: max@xox.im
 - 🌏️ My Blog: https://mxte.cc
